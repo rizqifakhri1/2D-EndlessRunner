@@ -620,8 +620,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveAccel: 3
-  maxSpeed: 6
-  jumpAccel: 6
+  maxSpeed: 5
+  jumpAccel: 7
   groundRaycastDistance: 1
   groundLayerMask:
     serializedVersion: 2
@@ -641,7 +641,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 9dc7c4a1b9827454388cb6eaefc43651, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1306,6 +1306,8 @@ MonoBehaviour:
   - {fileID: 2191177804390754714, guid: b05ad28890d377044b0cda8cd2d82d1d, type: 3}
   - {fileID: 7014556416291628849, guid: 550da5cf25c263d45bb03196ed38148f, type: 3}
   - {fileID: 5098769359667634820, guid: fa3f8efcbf04740409e530f2b1ef20c4, type: 3}
+  - {fileID: 5098769359667634820, guid: 2359ec098d690ee499e8c10140e91a5d, type: 3}
+  - {fileID: 5098769359667634820, guid: afe39f69228530143b175324fe13c6ef, type: 3}
   terrainTemplateWidth: 8.89
   earlyTerrainTemplates:
   - {fileID: 2191177804390754714, guid: b05ad28890d377044b0cda8cd2d82d1d, type: 3}
